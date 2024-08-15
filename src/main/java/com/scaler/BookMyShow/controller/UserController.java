@@ -32,5 +32,6 @@ public class UserController {
             responseDTO.setResponseMessage("Internal Server Error");
             return responseDTO;
         }
+        //handle exception
     }
 }
